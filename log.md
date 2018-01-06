@@ -24,6 +24,14 @@
 
 **Link(s) to work**: https://codepen.io/moonmeister/full/wpqQyb/
 
+### Day 4: January 5, 2018
+
+**Today's Progress**: Made it through the Tribute page project. On to the Portfolio page.
+
+**Thoughts**: So...evidently I wasn't suppose to look at the example code. It was like the first line in the video for the portfolio page. I guess I should have watched the video for the last one. In my defense, it wasn't in the "rules". Oh well! Got started on the portfolio, got most of a nav bar roughed out.
+
+**Link(s) to work**: https://codepen.io/moonmeister/full/KZygeN/
+
 <!--
 ### Day 1: January 2, 2018
 
