@@ -32,11 +32,15 @@
 
 **Link(s) to work**: https://codepen.io/moonmeister/full/KZygeN/
 
-**Today's Progress**: Checked out some good real examples of portfolio pages. This inspired me to try moving the nave to the bottom. I'll also include a pretty detail footer but I'm going to try and nest it with the nave then have a link to expand. We'll see how it turns out. I got the expansion working though!
+### Day 5: January 6, 2018
 
-**Thoughts**: Coming along well, definitely not as hard as I've imagined.
+**Today's Progress**: got the about section close enough. Moving on to the portfolio section. I'm trying to rough stuff in then I'll come back and dial it in.
+
+**Thoughts**: getting easier! and making more sense. Today had more problem solving...how I do love it though!
 
 **Link(s) to work**: https://codepen.io/moonmeister/full/KZygeN/
+
+**Time Spent**: 1.25hrs
 
 <!--
 ### Day 1: January 2, 2018
