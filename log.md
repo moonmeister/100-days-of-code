@@ -8,11 +8,15 @@
 
 **Link(s) to work**: https://www.freecodecamp.org/moonmeister
 
+**Time Spent**: 3.0 hrs
+
 ### Day 2: January 3, 2018
 
 **Today's Progress**: Made it through the jQuery section of freeCodeCamp to the first project. Got a codepen.io account setup and ready to get started on the project.
 
 **Thoughts**: all seemed pretty straight forward. I got to the project and had no idea where to start. I guess copying/extrapolating code is a lot easier then remembering on these things and creating your own. I look forward to moving forward and getting these skills down.
+
+**Time Spent**: 1.5 hrs
 
 **Link(s) to work**: https://codepen.io/moonmeister/full/wpqQyb/
 
@@ -24,6 +28,8 @@
 
 **Link(s) to work**: https://codepen.io/moonmeister/full/wpqQyb/
 
+**Time Spent**: 1 hr
+
 ### Day 4: January 5, 2018
 
 **Today's Progress**: Made it through the Tribute page project. On to the Portfolio page.
@@ -32,15 +38,17 @@
 
 **Link(s) to work**: https://codepen.io/moonmeister/full/KZygeN/
 
+**Time Spent**: 2 hrs
+
 ### Day 5: January 6, 2018
 
-**Today's Progress**: got the about section close enough. Moving on to the portfolio section. I'm trying to rough stuff in then I'll come back and dial it in.
+**Today's Progress**: got the about section close enough. Moving on to the portfolio section. I'm trying to rough stuff in then I'll come back and dial it in. ~break~ Another 3.5 hrs in the rearview mirror. Got some portfolio cards done up and added some cool Icons for the languages/libraries used in the making of said projects. Made an arrow do some cool rotations when you click it.
 
 **Thoughts**: getting easier! and making more sense. Today had more problem solving...how I do love it though!
 
 **Link(s) to work**: https://codepen.io/moonmeister/full/KZygeN/
 
-**Time Spent**: 1.25hrs
+**Time Spent**: 3.75 hrs
 
 <!--
 ### Day 1: January 2, 2018
