@@ -50,6 +50,16 @@
 
 **Time Spent**: 3.75 hrs
 
+### Day 5: January 6, 2018
+
+**Today's Progress**: Today got a bit tedious. Got the portfolio cards better formatted and so the flex better on resize. Started on the footer and all the flow and stuff was just off and I wasn't feeling it.
+
+**Thoughts**: Need a break...too many hours. Maybe I need not to do 3 hrs a day.
+
+**Link(s) to work**: https://codepen.io/moonmeister/full/KZygeN/
+
+**Time Spent**: 3 hrs
+
 <!--
 ### Day 1: January 2, 2018
 
