@@ -50,7 +50,7 @@
 
 **Time Spent**: 3.75 hrs
 
-### Day 5: January 6, 2018
+### Day 6: January 7, 2018
 
 **Today's Progress**: Today got a bit tedious. Got the portfolio cards better formatted and so the flex better on resize. Started on the footer and all the flow and stuff was just off and I wasn't feeling it.
 
@@ -59,6 +59,30 @@
 **Link(s) to work**: https://codepen.io/moonmeister/full/KZygeN/
 
 **Time Spent**: 3 hrs
+
+### Day 7: January 8, 2018
+
+I'm confused. Somewhere I lost a day...but I didn't skip a day of coding. I've also done a good job of always logging stuff...who knows.
+
+### Day 8: January 9, 2018
+
+**Today's Progress**: Finished out the portfolio project and bought a domain to host it on.
+
+**Thoughts**: I have my own website...how weird.
+
+**Link(s) to work**: https://moonmeister.net
+
+**Time Spent**: 3 hrs
+
+### Day 9: January 10, 2018
+
+**Today's Progress**: More freeCodeCamp, lots of Javascript basics. go some ~50 lessons done.
+
+**Thoughts**: Nothing terribly mind blowing. I know most of this from every other language I know. Some good little bits and refreshers on the specifics of JS.
+
+**Link(s) to work**: https://www.freecodecamp.org/moonmeister
+
+**Time Spent**: 1.25 hrs
 
 <!--
 ### Day 1: January 2, 2018
