@@ -84,6 +84,17 @@ I'm confused. Somewhere I lost a day...but I didn't skip a day of coding. I've a
 
 **Time Spent**: 1.25 hrs
 
+### Day 10: January 11, 2018
+
+**Today's Progress**: More freeCodeCamp...
+
+**Thoughts**:Honestly, it was the worst. so many case and if/then/else ><=!=//dfv:"lsjdg
+{ Iq[PTGKSD'F;KSD:F]}"/....THAT'S HOW I FEEL!
+
+**Link(s) to work**: https://www.freecodecamp.org/moonmeister
+
+**Time Spent**: 1 hrs
+
 <!--
 ### Day 1: January 2, 2018
 
