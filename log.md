@@ -95,6 +95,17 @@ I'm confused. Somewhere I lost a day...but I didn't skip a day of coding. I've a
 
 **Time Spent**: 1 hrs
 
+### Day 11: January 12, 2018
+
+**Today's Progress**: GATSBY!!! Gatsby Getting started tuts 1-4
+
+**Thoughts**: I did 1-3 at work cause we might be building a site and then I did part of 4 for my hour of code. OMG...Gatsby is fabulous!
+
+**Link(s) to work**: https://gatsbyjs.org
+
+**Time Spent**: 1 hrs
+
+
 <!--
 ### Day 1: January 2, 2018
 
