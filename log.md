@@ -115,6 +115,15 @@ I'm confused. Somewhere I lost a day...but I didn't skip a day of coding. I've a
 
 **Time Spent**: 5 hrs
 
+### Day 13: January 14, 2018
+
+**Today's Progress**: GATSBY!!! Did more gatsby, today was tryout-the-netlify-cms-day. Got some fCC done but nothing much...wasn't feeling it and gatsby/netlify cms sounded more interesting. Netlify CMS was the first jamstack thing I ever heard of so it was time.
+
+**Thoughts**:  Netlify CMS as mouth watering as Contentful but it's definitely cool. For an upcoming project it might work better. If my code is already in a repo then why can't my content too? It's likable straight forward /admin interface with nice o-auth support. The negatives more had to do with some markdown tutorial code I was trying to use being out of date and my day in general.
+
+**Link(s) to work**: https://trusting-clarke-b3de36.netlify.com/
+
+**Time Spent**: 3 hrs
 
 <!--
 ### Day 1: January 2, 2018
