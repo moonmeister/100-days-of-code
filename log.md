@@ -105,6 +105,16 @@ I'm confused. Somewhere I lost a day...but I didn't skip a day of coding. I've a
 
 **Time Spent**: 1 hrs
 
+### Day 12: January 13, 2018
+
+**Today's Progress**: GATSBY!!! Finished Tutorial 4 then ripped out the markdown file based backend and replaced it with Contentful! Then I changed the api codes to use environment variables, uploaded the code into github and deployed it on Netlify. Then I using webhooks setup Netlify to redeploy when Contenful has a content change made.
+
+**Thoughts**: Really enjoyed it, the Contentful conversion wasn't terribly hard but helped me better understand gatsby, graphql, and react. Had to fix a couple bugs that were really confusing to find out the error messages were very misleading. All said and done it went well.
+
+**Link(s) to work**: https://modest-mayer-d40337.netlify.com/
+
+**Time Spent**: 5 hrs
+
 
 <!--
 ### Day 1: January 2, 2018
