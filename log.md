@@ -125,6 +125,16 @@ I'm confused. Somewhere I lost a day...but I didn't skip a day of coding. I've a
 
 **Time Spent**: 3 hrs
 
+### Day 14-17: January 15-18, 2018
+
+**Today's Progress**: All the bash. Working lots on my XO install scripts. Consolidating to single file and adding subcommands and flags.
+
+**Thoughts**:  Been really great getting to know bash..it's oh so powerful and oh so complicated.
+
+**Link(s) to work**: https://github.com/moonmeister/xo-install-script/tree/dev
+
+**Time Spent**: 5 hrs
+
 <!--
 ### Day 1: January 2, 2018
 
