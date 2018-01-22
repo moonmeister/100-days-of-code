@@ -125,15 +125,23 @@ I'm confused. Somewhere I lost a day...but I didn't skip a day of coding. I've a
 
 **Time Spent**: 3 hrs
 
-### Day 14-17: January 15-18, 2018
+### Day 14-19: January 15-20, 2018
 
-**Today's Progress**: All the bash. Working lots on my XO install scripts. Consolidating to single file and adding subcommands and flags.
+**Today's Progress**: All the bash. Working lots on my XO install scripts. Consolidating to single file and adding subcommands and flags. after a couple days on this go v0.3.0-alpha released to the master.
 
 **Thoughts**:  Been really great getting to know bash..it's oh so powerful and oh so complicated.
 
 **Link(s) to work**: https://github.com/moonmeister/xo-install-script/tree/dev
 
-**Time Spent**: 5 hrs
+**Time Spent**: 10 hrs
+
+### Day 20: January 21, 2018
+
+**Today's Progress**: More freeCodeCamp! Go through the boring busy work of basic JS and onto algorithms.
+
+**Thoughts**: I'be done some of these in my college C++ classes so they've been quick and easy but it's great to be able to apply JS principals and tooling to make them very short and simple.
+
+**Link(s) to work**: [My fCC](https://www.freecodecamp.org/moonmeister)
 
 <!--
 ### Day 1: January 2, 2018
